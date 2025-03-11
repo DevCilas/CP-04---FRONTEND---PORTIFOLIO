@@ -158,3 +158,18 @@ i.menu-mobile{
         margin-left:0;
     }
 }
+.dados_sobre{
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #504e4e;
+    
+}
+.col-md-4 img{
+    
+    width: 100%;
+    max-width: 500px; 
+    aspect-ratio: 1 / 1; 
+    object-fit: cover; 
+    border-radius: 10px;
+    object-position:0% 30%; 
+}
